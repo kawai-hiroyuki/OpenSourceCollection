@@ -1,0 +1,48 @@
+
+/* Class = "IBUILabel"; text = "separate init and using page block callback"; ObjectID = "0xz-nj-zcw"; */
+"0xz-nj-zcw.text" = "Blockコールバック処理";
+
+/* Class = "IBUILabel"; text = "show custom intro"; ObjectID = "CZd-Ae-jru"; */
+"CZd-Ae-jru.text" = "カスタム画面を表示";
+
+/* Class = "IBUILabel"; text = "using page with custom view"; ObjectID = "Eik-qB-Cz7"; */
+"Eik-qB-Cz7.text" = "ページにカスタムビューを使用する";
+
+/* Class = "IBUILabel"; text = "showIntroWithCrossDissolve"; ObjectID = "JFY-HU-Wqx"; */
+"JFY-HU-Wqx.text" = "showIntroWithCrossDissolve";
+
+/* Class = "IBUILabel"; text = "showIntroWithCustomViewFromNib"; ObjectID = "PxA-z1-tIy"; */
+"PxA-z1-tIy.text" = "showIntroWithCustomViewFromNib";
+
+/* Class = "IBUILabel"; text = "showIntroWithCustomView"; ObjectID = "Uu6-H0-cUm"; */
+"Uu6-H0-cUm.text" = "showIntroWithCustomView";
+
+/* Class = "IBUILabel"; text = "basic pages with custom settings"; ObjectID = "VPb-VE-wlA"; */
+"VPb-VE-wlA.text" = "SKIPボタンをカスタム";
+
+/* Class = "IBUILabel"; text = "showIntroWithFixedTitleView"; ObjectID = "VPz-YK-5b6"; */
+"VPz-YK-5b6.text" = "showIntroWithFixedTitleView";
+
+/* Class = "IBUIBarButtonItem"; title = "close"; ObjectID = "XY8-YS-1Dw"; */
+"XY8-YS-1Dw.title" = "閉じる";
+
+/* Class = "IBUILabel"; text = "showIntroWithSeparatePagesInitAndPageCallback"; ObjectID = "a6E-08-xEL"; */
+"a6E-08-xEL.text" = "showIntroWithSeparatePagesInitAndPageCallback";
+
+/* Class = "IBUILabel"; text = "introView colored background & fixed title image"; ObjectID = "d98-KB-XQI"; */
+"d98-KB-XQI.text" = "背景に色をつけてイメージを固定する";
+
+/* Class = "IBUILabel"; text = "showCustomIntro"; ObjectID = "eOB-BY-jhK"; */
+"eOB-BY-jhK.text" = "showCustomIntro";
+
+/* Class = "IBUILabel"; text = "using page with custom view from nib"; ObjectID = "li5-75-OwD"; */
+"li5-75-OwD.text" = "ページにnibファイルから生成したカスタムビューを使用する";
+
+/* Class = "IBUILabel"; text = "showIntroWithCustomPages"; ObjectID = "qff-qy-aNu"; */
+"qff-qy-aNu.text" = "showIntroWithCustomPages";
+
+/* Class = "IBUINavigationItem"; title = "EAIntroView demo"; ObjectID = "toh-OM-6xR"; */
+"toh-OM-6xR.title" = "EAIntroView デモ";
+
+/* Class = "IBUILabel"; text = "pages with custom packgrounds & title images"; ObjectID = "unu-Q5-Wf8"; */
+"unu-Q5-Wf8.text" = "カスタムされた背景とイメージ";

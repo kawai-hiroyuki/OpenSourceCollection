@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  OpenSourceCollection
+
+  Created by obumin on 2014/12/12.
+  Copyright (c) 2014年 Kawai Hiroyuki. All rights reserved.
+*/
+/* icon name at ios home screen */
+CFBundleDisplayName = "オープンソース";

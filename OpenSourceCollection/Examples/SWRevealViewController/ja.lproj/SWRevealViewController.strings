@@ -1,0 +1,24 @@
+
+/* Class = "IBUILabel"; text = "Red"; ObjectID = "59s-6h-Haj"; */
+"59s-6h-Haj.text" = "赤";
+
+/* Class = "IBUILabel"; text = "Map"; ObjectID = "671-vW-Qho"; */
+"671-vW-Qho.text" = "地図";
+
+/* Class = "IBUINavigationItem"; title = "iPad Color"; ObjectID = "8uR-aH-2Ws"; */
+"8uR-aH-2Ws.title" = "色";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "Eb0-2e-dy5"; */
+"Eb0-2e-dy5.title" = "閉じる";
+
+/* Class = "IBUINavigationItem"; title = "iPad Map"; ObjectID = "ULc-LT-BNa"; */
+"ULc-LT-BNa.title" = "地図";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "o1O-Cu-zau"; */
+"o1O-Cu-zau.text" = "ラベル";
+
+/* Class = "IBUILabel"; text = "Blue"; ObjectID = "teH-t3-obm"; */
+"teH-t3-obm.text" = "青";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "vxN-U7-2rk"; */
+"vxN-U7-2rk.title" = "閉じる";

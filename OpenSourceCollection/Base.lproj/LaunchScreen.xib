@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Background" translatesAutoresizingMaskIntoConstraints="NO" id="g71-qy-ZBs">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+                </imageView>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Logo" translatesAutoresizingMaskIntoConstraints="NO" id="meN-hC-w2F">
+                    <rect key="frame" x="192" y="192" width="96" height="96"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="meN-hC-w2F" secondAttribute="height" multiplier="1:1" id="Dsj-2F-KYi"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Open Source Collection" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bT1-CI-sqh">
+                    <rect key="frame" x="130.5" y="303" width="219.5" height="23.5"/>
+                    <fontDescription key="fontDescription" name="AmericanTypewriter" family="American Typewriter" pointSize="20"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="g71-qy-ZBs" firstAttribute="width" secondItem="meN-hC-w2F" secondAttribute="width" multiplier="5" id="2Hj-bf-9z0"/>
+                <constraint firstItem="g71-qy-ZBs" firstAttribute="height" secondItem="meN-hC-w2F" secondAttribute="height" multiplier="10" id="2c8-bz-bcs"/>
+                <constraint firstItem="bT1-CI-sqh" firstAttribute="top" secondItem="meN-hC-w2F" secondAttribute="bottom" constant="15" id="2dB-oc-tCj"/>
+                <constraint firstAttribute="trailing" secondItem="g71-qy-ZBs" secondAttribute="trailing" id="7Mt-Pg-r5c"/>
+                <constraint firstAttribute="centerY" secondItem="g71-qy-ZBs" secondAttribute="centerY" id="Csa-rY-4JT"/>
+                <constraint firstAttribute="centerX" secondItem="meN-hC-w2F" secondAttribute="centerX" id="GBi-bG-iw9"/>
+                <constraint firstAttribute="centerX" secondItem="bT1-CI-sqh" secondAttribute="centerX" id="T3s-BI-hzk"/>
+                <constraint firstAttribute="centerX" secondItem="g71-qy-ZBs" secondAttribute="centerX" id="aRF-yO-C8g"/>
+                <constraint firstItem="g71-qy-ZBs" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="bdP-bP-IiN"/>
+                <constraint firstItem="meN-hC-w2F" firstAttribute="height" secondItem="g71-qy-ZBs" secondAttribute="height" id="eMK-op-7KP"/>
+                <constraint firstAttribute="bottom" secondItem="g71-qy-ZBs" secondAttribute="bottom" id="hJo-0a-I9w"/>
+                <constraint firstAttribute="centerY" secondItem="meN-hC-w2F" secondAttribute="centerY" id="igS-We-gRr"/>
+                <constraint firstItem="g71-qy-ZBs" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="lNX-pd-33U"/>
+                <constraint firstItem="g71-qy-ZBs" firstAttribute="width" secondItem="meN-hC-w2F" secondAttribute="width" multiplier="10" id="rVs-PG-QlS"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="2c8-bz-bcs"/>
+                    <exclude reference="rVs-PG-QlS"/>
+                    <exclude reference="eMK-op-7KP"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Background" width="512" height="512"/>
+        <image name="Logo" width="512" height="512"/>
+    </resources>
+</document>

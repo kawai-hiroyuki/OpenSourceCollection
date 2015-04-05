@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "P2g-0F-wzz"; */
+"P2g-0F-wzz.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "hbe-wk-2as"; */
+"hbe-wk-2as.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "jmn-el-aEc"; */
+"jmn-el-aEc.title" = "Close";

@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "show"; ObjectID = "9"; */
+"9.normalTitle" = "表示する";
+
+/* Class = "IBUIButton"; normalTitle = "showWithStatus:"; ObjectID = "10"; */
+"10.normalTitle" = "ステータスを表示する:";
+
+/* Class = "IBUIButton"; normalTitle = "dismiss"; ObjectID = "13"; */
+"13.normalTitle" = "非表示にする";
+
+/* Class = "IBUIButton"; normalTitle = "showSuccessWithStatus:"; ObjectID = "14"; */
+"14.normalTitle" = "成功表示:";
+
+/* Class = "IBUIButton"; normalTitle = "showErrorWithStatus:"; ObjectID = "15"; */
+"15.normalTitle" = "エラー表示:";
+
+/* Class = "IBUIButton"; normalTitle = "showWithProgress:"; ObjectID = "27"; */
+"27.normalTitle" = "読み込み表示:";
+
+/* Class = "IBUIButton"; normalTitle = "close"; ObjectID = "33"; */
+"33.normalTitle" = "閉じる";

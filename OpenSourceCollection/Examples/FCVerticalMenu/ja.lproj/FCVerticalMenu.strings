@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "AAp-pR-NSm"; */
+"AAp-pR-NSm.text" = "2";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "GK3-fA-9Xp"; */
+"GK3-fA-9Xp.title" = "閉じる";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "T9o-Mi-WI8"; */
+"T9o-Mi-WI8.title" = "閉じる";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "b00-ql-ejT"; */
+"b00-ql-ejT.text" = "1";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "cVA-jA-VFf"; */
+"cVA-jA-VFf.title" = "閉じる";

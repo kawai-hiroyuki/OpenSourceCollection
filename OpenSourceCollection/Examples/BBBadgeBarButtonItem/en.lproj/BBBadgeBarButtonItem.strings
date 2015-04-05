@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "Change badge color"; ObjectID = "4sE-hW-C03"; */
+"4sE-hW-C03.normalTitle" = "Change badge color";
+
+/* Class = "IBUIButton"; normalTitle = "Fake adding one element to the list"; ObjectID = "8Tk-nk-USN"; */
+"8Tk-nk-USN.normalTitle" = "Fake adding one element to the list";
+
+/* Class = "IBUILabel"; text = "Badge over BarButtonitem"; ObjectID = "Z0a-y1-wjy"; */
+"Z0a-y1-wjy.text" = "Badge over BarButtonitem";
+
+/* Class = "IBUINavigationItem"; title = "BadgeBarButtonItem"; ObjectID = "dZc-JX-3G6"; */
+"dZc-JX-3G6.title" = "BadgeBarButtonItem";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "hBB-mZ-ePN"; */
+"hBB-mZ-ePN.title" = "Close";
+
+/* Class = "IBUIButton"; normalTitle = "Change badge position"; ObjectID = "hHO-Ym-1Nx"; */
+"hHO-Ym-1Nx.normalTitle" = "Change badge position";

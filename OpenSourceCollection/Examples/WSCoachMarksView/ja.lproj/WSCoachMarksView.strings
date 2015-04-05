@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Demo Start"; ObjectID = "Y6Y-9e-VTq"; */
+"Y6Y-9e-VTq.normalTitle" = "デモ スタート";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cub-Dx-Opz"; */
+"cub-Dx-Opz.text" = "ラベル";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "t77-7L-oov"; */
+"t77-7L-oov.normalTitle" = "閉じる";

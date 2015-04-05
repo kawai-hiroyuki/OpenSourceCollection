@@ -1,0 +1,146 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// ACEDrawingView
+#define COCOAPODS_POD_AVAILABLE_ACEDrawingView
+#define COCOAPODS_VERSION_MAJOR_ACEDrawingView 1
+#define COCOAPODS_VERSION_MINOR_ACEDrawingView 3
+#define COCOAPODS_VERSION_PATCH_ACEDrawingView 2
+
+// ANDLineChartView
+#define COCOAPODS_POD_AVAILABLE_ANDLineChartView
+#define COCOAPODS_VERSION_MAJOR_ANDLineChartView 0
+#define COCOAPODS_VERSION_MINOR_ANDLineChartView 2
+#define COCOAPODS_VERSION_PATCH_ANDLineChartView 2
+
+// BBBadgeBarButtonItem
+#define COCOAPODS_POD_AVAILABLE_BBBadgeBarButtonItem
+#define COCOAPODS_VERSION_MAJOR_BBBadgeBarButtonItem 1
+#define COCOAPODS_VERSION_MINOR_BBBadgeBarButtonItem 1
+#define COCOAPODS_VERSION_PATCH_BBBadgeBarButtonItem 0
+
+// BDMultiDownloader
+#define COCOAPODS_POD_AVAILABLE_BDMultiDownloader
+#define COCOAPODS_VERSION_MAJOR_BDMultiDownloader 0
+#define COCOAPODS_VERSION_MINOR_BDMultiDownloader 0
+#define COCOAPODS_VERSION_PATCH_BDMultiDownloader 3
+
+// CYRTextView
+#define COCOAPODS_POD_AVAILABLE_CYRTextView
+#define COCOAPODS_VERSION_MAJOR_CYRTextView 0
+#define COCOAPODS_VERSION_MINOR_CYRTextView 4
+#define COCOAPODS_VERSION_PATCH_CYRTextView 0
+
+// DWBubbleMenuButton
+#define COCOAPODS_POD_AVAILABLE_DWBubbleMenuButton
+#define COCOAPODS_VERSION_MAJOR_DWBubbleMenuButton 1
+#define COCOAPODS_VERSION_MINOR_DWBubbleMenuButton 0
+#define COCOAPODS_VERSION_PATCH_DWBubbleMenuButton 1
+
+// EAIntroView
+#define COCOAPODS_POD_AVAILABLE_EAIntroView
+#define COCOAPODS_VERSION_MAJOR_EAIntroView 2
+#define COCOAPODS_VERSION_MINOR_EAIntroView 6
+#define COCOAPODS_VERSION_PATCH_EAIntroView 4
+
+// FCVerticalMenu
+#define COCOAPODS_POD_AVAILABLE_FCVerticalMenu
+#define COCOAPODS_VERSION_MAJOR_FCVerticalMenu 0
+#define COCOAPODS_VERSION_MINOR_FCVerticalMenu 1
+#define COCOAPODS_VERSION_PATCH_FCVerticalMenu 3
+
+// Google-Mobile-Ads-SDK
+#define COCOAPODS_POD_AVAILABLE_Google_Mobile_Ads_SDK
+#define COCOAPODS_VERSION_MAJOR_Google_Mobile_Ads_SDK 6
+#define COCOAPODS_VERSION_MINOR_Google_Mobile_Ads_SDK 12
+#define COCOAPODS_VERSION_PATCH_Google_Mobile_Ads_SDK 2
+
+// JSQMessagesViewController
+#define COCOAPODS_POD_AVAILABLE_JSQMessagesViewController
+#define COCOAPODS_VERSION_MAJOR_JSQMessagesViewController 6
+#define COCOAPODS_VERSION_MINOR_JSQMessagesViewController 1
+#define COCOAPODS_VERSION_PATCH_JSQMessagesViewController 3
+
+// JSQSystemSoundPlayer
+#define COCOAPODS_POD_AVAILABLE_JSQSystemSoundPlayer
+#define COCOAPODS_VERSION_MAJOR_JSQSystemSoundPlayer 2
+#define COCOAPODS_VERSION_MINOR_JSQSystemSoundPlayer 0
+#define COCOAPODS_VERSION_PATCH_JSQSystemSoundPlayer 1
+
+// JTCalendar
+#define COCOAPODS_POD_AVAILABLE_JTCalendar
+#define COCOAPODS_VERSION_MAJOR_JTCalendar 1
+#define COCOAPODS_VERSION_MINOR_JTCalendar 1
+#define COCOAPODS_VERSION_PATCH_JTCalendar 18
+
+// KBRoundedButton
+#define COCOAPODS_POD_AVAILABLE_KBRoundedButton
+#define COCOAPODS_VERSION_MAJOR_KBRoundedButton 1
+#define COCOAPODS_VERSION_MINOR_KBRoundedButton 0
+#define COCOAPODS_VERSION_PATCH_KBRoundedButton 2
+
+// KYCircleMenu
+#define COCOAPODS_POD_AVAILABLE_KYCircleMenu
+#define COCOAPODS_VERSION_MAJOR_KYCircleMenu 1
+#define COCOAPODS_VERSION_MINOR_KYCircleMenu 2
+#define COCOAPODS_VERSION_PATCH_KYCircleMenu 0
+
+// M13ProgressSuite
+#define COCOAPODS_POD_AVAILABLE_M13ProgressSuite
+#define COCOAPODS_VERSION_MAJOR_M13ProgressSuite 1
+#define COCOAPODS_VERSION_MINOR_M13ProgressSuite 2
+#define COCOAPODS_VERSION_PATCH_M13ProgressSuite 7
+
+// MGBoxKit
+#define COCOAPODS_POD_AVAILABLE_MGBoxKit
+#define COCOAPODS_VERSION_MAJOR_MGBoxKit 7
+#define COCOAPODS_VERSION_MINOR_MGBoxKit 0
+#define COCOAPODS_VERSION_PATCH_MGBoxKit 1
+
+// MGEvents
+#define COCOAPODS_POD_AVAILABLE_MGEvents
+#define COCOAPODS_VERSION_MAJOR_MGEvents 1
+#define COCOAPODS_VERSION_MINOR_MGEvents 0
+#define COCOAPODS_VERSION_PATCH_MGEvents 3
+
+// MGMushParser
+#define COCOAPODS_POD_AVAILABLE_MGMushParser
+#define COCOAPODS_VERSION_MAJOR_MGMushParser 1
+#define COCOAPODS_VERSION_MINOR_MGMushParser 2
+#define COCOAPODS_VERSION_PATCH_MGMushParser 1
+
+// SVProgressHUD
+#define COCOAPODS_POD_AVAILABLE_SVProgressHUD
+#define COCOAPODS_VERSION_MAJOR_SVProgressHUD 1
+#define COCOAPODS_VERSION_MINOR_SVProgressHUD 1
+#define COCOAPODS_VERSION_PATCH_SVProgressHUD 3
+
+// SWRevealViewController
+#define COCOAPODS_POD_AVAILABLE_SWRevealViewController
+#define COCOAPODS_VERSION_MAJOR_SWRevealViewController 2
+#define COCOAPODS_VERSION_MINOR_SWRevealViewController 3
+#define COCOAPODS_VERSION_PATCH_SWRevealViewController 0
+
+// UIDevice-Hardware
+#define COCOAPODS_POD_AVAILABLE_UIDevice_Hardware
+#define COCOAPODS_VERSION_MAJOR_UIDevice_Hardware 0
+#define COCOAPODS_VERSION_MINOR_UIDevice_Hardware 1
+#define COCOAPODS_VERSION_PATCH_UIDevice_Hardware 5
+
+// WSCoachMarksView
+#define COCOAPODS_POD_AVAILABLE_WSCoachMarksView
+#define COCOAPODS_VERSION_MAJOR_WSCoachMarksView 0
+#define COCOAPODS_VERSION_MINOR_WSCoachMarksView 2
+#define COCOAPODS_VERSION_PATCH_WSCoachMarksView 0
+
+// iRate
+#define COCOAPODS_POD_AVAILABLE_iRate
+#define COCOAPODS_VERSION_MAJOR_iRate 1
+#define COCOAPODS_VERSION_MINOR_iRate 11
+#define COCOAPODS_VERSION_PATCH_iRate 3
+

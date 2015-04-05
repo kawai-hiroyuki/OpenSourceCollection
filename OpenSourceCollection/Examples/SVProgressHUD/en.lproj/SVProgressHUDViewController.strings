@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "show"; ObjectID = "9"; */
+"9.normalTitle" = "show";
+
+/* Class = "IBUIButton"; normalTitle = "showWithStatus:"; ObjectID = "10"; */
+"10.normalTitle" = "showWithStatus:";
+
+/* Class = "IBUIButton"; normalTitle = "dismiss"; ObjectID = "13"; */
+"13.normalTitle" = "dismiss";
+
+/* Class = "IBUIButton"; normalTitle = "showSuccessWithStatus:"; ObjectID = "14"; */
+"14.normalTitle" = "showSuccessWithStatus:";
+
+/* Class = "IBUIButton"; normalTitle = "showErrorWithStatus:"; ObjectID = "15"; */
+"15.normalTitle" = "showErrorWithStatus:";
+
+/* Class = "IBUIButton"; normalTitle = "showWithProgress:"; ObjectID = "27"; */
+"27.normalTitle" = "showWithProgress:";
+
+/* Class = "IBUIButton"; normalTitle = "close"; ObjectID = "33"; */
+"33.normalTitle" = "close";

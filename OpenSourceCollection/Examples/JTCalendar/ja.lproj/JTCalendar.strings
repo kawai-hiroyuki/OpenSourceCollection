@@ -1,0 +1,9 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "PId-Xf-bAK"; */
+"PId-Xf-bAK.title" = "閉じる";
+
+/* Class = "IBUIButton"; normalTitle = "Change mode"; ObjectID = "m6a-lR-Xrr"; */
+"m6a-lR-Xrr.normalTitle" = "表示モード切替";
+
+/* Class = "IBUIButton"; normalTitle = "Today"; ObjectID = "tAZ-Js-Lak"; */
+"tAZ-Js-Lak.normalTitle" = "今日";

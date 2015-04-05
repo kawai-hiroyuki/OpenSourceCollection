@@ -1,0 +1,1 @@
+PODS_KYCIRCLEMENU_OTHER_LDFLAGS = -framework "CoreGraphics" -framework "UIKit"

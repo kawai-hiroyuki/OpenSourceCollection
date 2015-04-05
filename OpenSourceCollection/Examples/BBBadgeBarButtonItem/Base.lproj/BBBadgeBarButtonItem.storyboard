@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="6Nx-np-Y6o">
+    <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <scenes>
+        <!--BadgeBarButtonItem-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="BBBadgeBarButtonItemViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="OT5-md-gqN"/>
+                        <viewControllerLayoutGuide type="bottom" id="ZVq-wc-icf"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Tk-nk-USN">
+                                <rect key="frame" x="40" y="289.5" width="241" height="30"/>
+                                <state key="normal" title="Fake adding one element to the list">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="addItemToListButtonPressed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="YEh-6z-bq9"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Badge over BarButtonitem" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z0a-y1-wjy">
+                                <rect key="frame" x="58.5" y="180" width="204.5" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4sE-hW-C03">
+                                <rect key="frame" x="90" y="413.5" width="140" height="30"/>
+                                <state key="normal" title="Change badge color">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="changeColorButtonPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="0lA-Bc-cRb"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hHO-Ym-1Nx">
+                                <rect key="frame" x="80" y="350.5" width="160" height="30"/>
+                                <state key="normal" title="Change badge position">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="changePositionButtonPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="ldo-Yw-2EA"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.86274509799999999" green="0.86274509799999999" blue="0.86274509799999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="centerX" secondItem="Z0a-y1-wjy" secondAttribute="centerX" id="86V-KY-js4"/>
+                            <constraint firstItem="4sE-hW-C03" firstAttribute="top" secondItem="hHO-Ym-1Nx" secondAttribute="bottom" constant="33" id="9kh-Hy-6Bj"/>
+                            <constraint firstAttribute="centerX" secondItem="hHO-Ym-1Nx" secondAttribute="centerX" id="P3e-MF-dHA"/>
+                            <constraint firstItem="hHO-Ym-1Nx" firstAttribute="top" secondItem="8Tk-nk-USN" secondAttribute="bottom" constant="31" id="V6y-jH-90h"/>
+                            <constraint firstAttribute="centerX" secondItem="8Tk-nk-USN" secondAttribute="centerX" id="aIa-F5-loO"/>
+                            <constraint firstItem="Z0a-y1-wjy" firstAttribute="top" secondItem="OT5-md-gqN" secondAttribute="bottom" constant="116" id="fGx-ek-W4z"/>
+                            <constraint firstItem="8Tk-nk-USN" firstAttribute="top" secondItem="Z0a-y1-wjy" secondAttribute="bottom" constant="89" id="i3K-oT-Qh4"/>
+                            <constraint firstAttribute="centerX" secondItem="4sE-hW-C03" secondAttribute="centerX" id="kaN-vp-tEs"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="BadgeBarButtonItem" id="dZc-JX-3G6">
+                        <barButtonItem key="rightBarButtonItem" title="Close" id="hBB-mZ-ePN">
+                            <color key="tintColor" red="1" green="0.064696846660000001" blue="0.16716269480000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <connections>
+                                <action selector="closeButtonPressed:" destination="vXZ-lx-hvc" id="ZZn-Cr-RoM"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="548" y="90"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="pvu-rq-G5Z">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="6Nx-np-Y6o" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Am7-Q0-2kd">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.050980392156862744" green="0.54509803921568623" blue="0.70588235294117641" alpha="1" colorSpace="calibratedRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="vXZ-lx-hvc" kind="relationship" relationship="rootViewController" id="p09-8W-g2u"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iTg-hI-2fO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="75" y="90"/>
+        </scene>
+    </scenes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

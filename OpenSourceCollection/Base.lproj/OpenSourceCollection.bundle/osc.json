@@ -1,0 +1,523 @@
+{
+    "opensource": [
+                   {
+                   "category": "Walk Through, Coach Marks",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'EAIntroView', '~> 2.6.0'",
+                            "comment": "",
+                            "desc": "This is highly customizable drop-in solution for introduction views. Some features (remember, most features are optional and can be turned off)",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "EAIntroViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/ealeksandrov/EAIntroView/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Tutorial screen to switch the page in the swipe.",
+                            "title": "EAIntroView",
+                            "url": "https://github.com/ealeksandrov/EAIntroView",
+                            "version": "2.6.4"
+                            },
+                            {
+                            "cocoapods": "pod 'WSCoachMarksView', '~> 0.2'",
+                            "comment": "",
+                            "desc": "iOS drop-in class for interactive coach marks with cutouts to spotlight the app's existing UI.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "WSCoachMarksView"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/workshirt/WSCoachMarksView/blob/master/LICENSE"
+                            },
+                            "shortdesc": "The tutorial screen by the spotlight effect.",
+                            "title": "WSCoachMarksView",
+                            "url": "https://github.com/workshirt/WSCoachMarksView",
+                            "version": "0.2"
+                            }
+                            ]
+                   },
+                   
+                   {
+                   "category": "ProgressBar",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'SVProgressHUD', '~> 1.0'",
+                            "comment": "",
+                            "desc": "A clean and lightweight progress HUD for your iOS app.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "SVProgressHUDViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/TransitApp/SVProgressHUD/blob/master/LICENSE.txt"
+                            },
+                            "shortdesc": "Create a loading display a few lines.",
+                            "title": "SVProgressHUD",
+                            "url": "http://samvermette.com/199",
+                            "version": "1.0"
+                            },
+                            
+                            {
+                            "cocoapods": "pod 'M13ProgressSuite', '~> 1.2.6'",
+                            "comment": "",
+                            "desc": "A suite containing many tools to display progress information on iOS.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "M13ProgressSuite"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/Marxon13/M13ProgressSuite#license"
+                            },
+                            "shortdesc": "Tools for informing the progress.",
+                            "title": "M13ProgressSuite",
+                            "url": "https://github.com/Marxon13/M13ProgressSuite",
+                            "version": "1.0"
+                            }
+                            ]
+                   },
+                   
+                   {
+                   "category": "Downloader",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'BDMultiDownloader', '~> 0.0.2'",
+                            "comment": "",
+                            "desc": "Simple block-based concurrent multiple-URL data downloader based only on NSURLConnection.",
+                            "example": [
+                                        {
+                                        "codeurl": "https://github.com/norsez/BDMultiDownloader",
+                                        "viewcontroller": "BDMultiDownloader"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "BSD",
+                            "licenseurl": "https://github.com/norsez/BDMultiDownloader/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Downloader you can download more than one URL data at the same time.",
+                            "title": "BDMultiDownloader",
+                            "url": "https://github.com/norsez/BDMultiDownloader",
+                            "version": "0.0.2"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Rating",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'iRate', '~> 1.11.3'",
+                            "comment": "",
+                            "desc": "A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "IRateViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "",
+                            "licenseurl": "https://github.com/nicklockwood/iRate/blob/master/LICENCE.md"
+                            },
+                            "shortdesc": "You can easily rate your app for the first time start-up",
+                            "title": "iRate",
+                            "url": "https://github.com/nicklockwood/iRate",
+                            "version": "1.11.3"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Device",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'UIDevice-Hardware', '~> 0.1.5'",
+                            "comment": "",
+                            "desc": "Category on UIDevice to distinguish between platforms and provide human-readable device names e.g. \"iPad Mini 2G (Cellular)\".",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "UIDevice-Hardware"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "BSD",
+                            "licenseurl": "https://github.com/erichoracek/UIDevice-Hardware/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Category on UIDevice provide human-readable device names",
+                            "title": "UIDevice-Hardware",
+                            "url": "https://github.com/erichoracek/UIDevice-Hardware",
+                            "version": "0.1.5"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Draw",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'ACEDrawingView', '~> 1.3.2'",
+                            "comment": "",
+                            "desc": "An open source iOS component to create a drawing app.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "ACEViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "Apache License 2.0",
+                            "licenseurl": "https://github.com/acerbetti/ACEDrawingView/blob/master/LICENSE.txt"
+                            },
+                            "shortdesc": "Simple drawing function",
+                            "title": "ACEDrawingView",
+                            "url": "https://github.com/acerbetti/ACEDrawingView",
+                            "version": "1.3.2"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Graph",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'ANDLineChartView', '~> 0.2.2'",
+                            "comment": "",
+                            "desc": "ANDLineChartView is easy to use view-based class for displaying animated line chart.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "ANDLineChartView"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/anaglik/ANDLineChartView/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Draw the animation of line graph",
+                            "title": "ANDLineChartView",
+                            "url": "https://github.com/anaglik/ANDLineChartView",
+                            "version": "0.2.2"
+                            },
+                            {
+                            "cocoapods": "Not exist in cocoapods",
+                            "comment": "",
+                            "desc": "JYGraphViewController is an easy way to graph data in a simple and minimalist style. By default it is presented modally when the device is turned into landscape orientation.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "JYGraphMenuViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/johnyorke/JYGraphViewController/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Draw a line graph",
+                            "title": "JYGraphViewController",
+                            "url": "https://github.com/johnyorke/JYGraphViewController",
+                            "version": ""
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "CoverFlow",
+                   "list": [
+                            {
+                            "cocoapods": "Not exist in cocoapods",
+                            "comment": "",
+                            "desc": "CFCoverFlowView is a CoverFlow view with PagingEnabled similar to App Store for iPad.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "CFCoverFlowView"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/c0ming/CFCoverFlowView/blob/master/LICENSE.md"
+                            },
+                            "shortdesc": "Cover flow display, such as the App Store.",
+                            "title": "CFCoverFlowView",
+                            "url": "https://github.com/c0ming/CFCoverFlowView",
+                            "version": ""
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Button",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'KBRoundedButton', '~> 1.0.2'",
+                            "comment": "",
+                            "desc": "Create beautiful rounded rect button with dynamic colors and activity indicator completely in Interface Builder",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "KBRoundedButton"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/burczyk/KBRoundedButton/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Show loading icon to beautiful round corner button.",
+                            "title": "KBRoundedButton",
+                            "url": "https://github.com/burczyk/KBRoundedButton",
+                            "version": "1.0.2"
+                            },
+                            
+                            {
+                            "cocoapods": "pod 'BBBadgeBarButtonItem', '~> 1.1'",
+                            "comment": "",
+                            "desc": "Badge value on top of BarButtonItem",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "BBBadgeBarButtonItem"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/TanguyAladenise/BBBadgeBarButtonItem/blob/master/LICENCE.txt"
+                            },
+                            "shortdesc": "Put a batch (number) to BarButtonItem.",
+                            "title": "BBBadgeBarButtonItem",
+                            "url": "https://github.com/TanguyAladenise/BBBadgeBarButtonItem",
+                            "version": "1.1"
+                            },
+                            
+                            {
+                            "cocoapods": "pod 'DWBubbleMenuButton', '~> 1.0.1'",
+                            "comment": "",
+                            "desc": "Simple animation class for expanding and collapsing a variable sized menu",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "DWBubbleMenuButton"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/dwalker39/DWBubbleMenuButton/blob/master/LICENSE.md"
+                            },
+                            "shortdesc": "Press the button, appear the menu as bubbles",
+                            "title": "DWBubbleMenuButton",
+                            "url": "https://github.com/dwalker39/DWBubbleMenuButton",
+                            "version": "1.0.1"
+                            }
+                            
+                            ]
+                   },
+                   {
+                   "category": "Menu",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'SWRevealViewController', '~> 2.3.0'",
+                            "comment": "",
+                            "desc": "A UIViewController subclass for presenting two view controllers inspired in the Facebook app, done right.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "SWRevealViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/John-Lluch/SWRevealViewController/blob/master/LICENSE.txt"
+                            },
+                            "shortdesc": "Drawer menu of Facebook app style.",
+                            "title": "SWRevealViewController",
+                            "url": "https://github.com/John-Lluch/SWRevealViewController",
+                            "version": "2.3.0"
+                            },
+                            {
+                            "cocoapods": "pod 'KYCircleMenu', '~> 1.2.0'",
+                            "comment": "",
+                            "desc": "A circle menu with toggling animation.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "KYCircleMenu"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/Kjuly/KYCircleMenu/blob/dev/LICENSE"
+                            },
+                            "shortdesc": "Press the button, the menu that opens circular",
+                            "title": "KYCircleMenu",
+                            "url": "https://github.com/Kjuly/KYCircleMenu",
+                            "version": "1.2.0"
+                            },
+                            
+                            {
+                            "cocoapods": "pod 'FCVerticalMenu', '~> 0.1.2'",
+                            "comment": "",
+                            "desc": "A dropdown menu completely customizable",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "FCVerticalMenu"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/filippocamillo/FCVerticalMenu/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Drop-down menu",
+                            "title": "FCVerticalMenu",
+                            "url": "https://github.com/filippocamillo/FCVerticalMenu",
+                            "version": "0.1.2"
+                            }
+
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "TableView",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'MGBoxKit', '~> 7.0.1'",
+                            "comment": "",
+                            "desc": "Simple, quick iOS tables, grids, and more",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "MGBoxKit"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "BSD",
+                            "licenseurl": "https://github.com/sobri909/MGBoxKit/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Simple table and grid view",
+                            "title": "MGBoxKit",
+                            "url": "https://github.com/sobri909/MGBoxKit",
+                            "version": "7.0.1"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "Message",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'JSQMessagesViewController', '~> 6.1.0'",
+                            "comment": "",
+                            "desc": "An elegant messages UI library for iOS.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "JSQMessagesViewController"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/jessesquires/JSQMessagesViewController/blob/develop/LICENSE"
+                            },
+                            "shortdesc": "Message features like iMessage",
+                            "title": "JSQMessagesViewController",
+                            "url": "http://jessesquires.github.io/JSQMessagesViewController",
+                            "version": "6.1.0"
+                            }
+                            
+                            ]
+                   },
+                   
+                   {
+                   "category": "TextView",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'CYRTextView', '~> 0.4.0'",
+                            "comment": "",
+                            "desc": "A rich text view that allows easy syntax highlighting through regular expressions, line numbers, and more.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "CYRTextView"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/illyabusigin/CYRTextView/blob/master/LICENSE"
+                            },
+                            "shortdesc": "UITextView subclass to support the line number and Syntax highlighting",
+                            "title": "CYRTextView",
+                            "url": "https://github.com/illyabusigin/CYRTextView",
+                            "version": "0.4.0"
+                            }
+                            
+                            ]
+                   },
+                   {
+                   "category": "Utility",
+                   "list": [
+                            {
+                            "cocoapods": "pod 'JTCalendar', '~> 1.1.3'",
+                            "comment": "",
+                            "desc": "A customizable calendar view for iOS.",
+                            "example": [
+                                        {
+                                        "codeurl": "",
+                                        "viewcontroller": "JTCalendar"
+                                        }
+                                        ],
+                            "howtouse": "",
+                            "license": {
+                            "licensetype": "MIT",
+                            "licenseurl": "https://github.com/jonathantribouharet/JTCalendar/blob/master/LICENSE"
+                            },
+                            "shortdesc": "Calendar view",
+                            "title": "JTCalendar",
+                            "url": "https://github.com/jonathantribouharet/JTCalendar",
+                            "version": "1.1.3"
+                            }
+                            
+                            ]
+                   }
+
+    ]
+}

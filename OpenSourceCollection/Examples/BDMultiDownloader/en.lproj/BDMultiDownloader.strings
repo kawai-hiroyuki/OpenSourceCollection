@@ -1,0 +1,24 @@
+
+/* Class = "IBUITabBarItem"; title = "Cache Demo"; ObjectID = "6H3-bf-nG5"; */
+"6H3-bf-nG5.title" = "Cache Demo";
+
+/* Class = "IBUIButton"; normalTitle = "Start"; ObjectID = "QwS-X5-aGS"; */
+"QwS-X5-aGS.normalTitle" = "Start";
+
+/* Class = "IBUIButton"; normalTitle = "Stop"; ObjectID = "RrY-lh-xKk"; */
+"RrY-lh-xKk.normalTitle" = "Stop";
+
+/* Class = "IBUIBarButtonItem"; title = "close"; ObjectID = "ZA7-zi-45I"; */
+"ZA7-zi-45I.title" = "close";
+
+/* Class = "IBUIButton"; normalTitle = "Stop"; ObjectID = "Zsh-rY-v9w"; */
+"Zsh-rY-v9w.normalTitle" = "Stop";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "fK6-MT-YSe"; */
+"fK6-MT-YSe.normalTitle" = "Cancel";
+
+/* Class = "IBUITabBarItem"; title = "Demo"; ObjectID = "l6R-el-Ri7"; */
+"l6R-el-Ri7.title" = "Demo";
+
+/* Class = "IBUIBarButtonItem"; title = "close"; ObjectID = "lvP-0f-1OB"; */
+"lvP-0f-1OB.title" = "close";

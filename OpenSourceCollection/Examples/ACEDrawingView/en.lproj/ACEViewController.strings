@@ -1,0 +1,24 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Redo"; ObjectID = "1ax-hu-1Jw"; */
+"1ax-hu-1Jw.title" = "Redo";
+
+/* Class = "IBUIBarButtonItem"; title = "Pen"; ObjectID = "7nB-yh-oYo"; */
+"7nB-yh-oYo.title" = "Pen";
+
+/* Class = "IBUIBarButtonItem"; title = "Black"; ObjectID = "GtL-ka-aPY"; */
+"GtL-ka-aPY.title" = "Black";
+
+/* Class = "IBUIBarButtonItem"; title = "Width"; ObjectID = "JAT-hW-u5M"; */
+"JAT-hW-u5M.title" = "Width";
+
+/* Class = "IBUIBarButtonItem"; title = "Undo"; ObjectID = "MVD-1K-z9l"; */
+"MVD-1K-z9l.title" = "Undo";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "VPY-s7-iva"; */
+"VPY-s7-iva.title" = "Close";
+
+/* Class = "IBUIBarButtonItem"; title = "Alpha"; ObjectID = "ity-ky-2CC"; */
+"ity-ky-2CC.title" = "Alpha";
+
+/* Class = "IBUIBarButtonItem"; title = "Clear"; ObjectID = "tdh-Ec-XBe"; */
+"tdh-Ec-XBe.title" = "Clear";

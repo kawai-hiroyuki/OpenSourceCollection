@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="o69-5f-gEY">
+    <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--CFCoverFlowView-->
+        <scene sceneID="Al8-Ms-Ygf">
+            <objects>
+                <viewController id="gwX-BO-1pq" customClass="CFViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Tw9-Yb-tIS"/>
+                        <viewControllerLayoutGuide type="bottom" id="Hba-q6-eTE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="DCy-5J-dLn">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="6" translatesAutoresizingMaskIntoConstraints="NO" id="dQT-4t-Mfm">
+                                <rect key="frame" x="243.5" y="312" width="87" height="37"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="87" id="4WJ-mJ-nQD"/>
+                                    <constraint firstAttribute="height" constant="37" id="FLM-2X-zf4"/>
+                                </constraints>
+                                <color key="pageIndicatorTintColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <color key="currentPageIndicatorTintColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <action selector="pageControlAction:" destination="gwX-BO-1pq" eventType="valueChanged" id="HeS-QK-a4R"/>
+                                </connections>
+                            </pageControl>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6l1-3A-HZZ" customClass="CFCoverFlowView">
+                                <rect key="frame" x="0.0" y="64" width="600" height="240"/>
+                                <color key="backgroundColor" red="0.7019608021" green="0.7019608021" blue="0.7019608021" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="240" id="zXt-Jr-n4A"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="6l1-3A-HZZ" firstAttribute="leading" secondItem="DCy-5J-dLn" secondAttribute="leading" id="1Fa-8g-yCr"/>
+                            <constraint firstItem="6l1-3A-HZZ" firstAttribute="leading" secondItem="DCy-5J-dLn" secondAttribute="leading" id="SJb-kh-KEO"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="6l1-3A-HZZ" secondAttribute="trailing" id="W90-8M-YII"/>
+                            <constraint firstItem="dQT-4t-Mfm" firstAttribute="top" secondItem="6l1-3A-HZZ" secondAttribute="bottom" constant="8" id="aah-J7-Ecw"/>
+                            <constraint firstItem="6l1-3A-HZZ" firstAttribute="top" secondItem="Tw9-Yb-tIS" secondAttribute="bottom" id="ar1-77-7zm"/>
+                            <constraint firstAttribute="centerX" secondItem="6l1-3A-HZZ" secondAttribute="centerX" id="kKg-s6-mfk"/>
+                            <constraint firstItem="6l1-3A-HZZ" firstAttribute="centerX" secondItem="dQT-4t-Mfm" secondAttribute="centerX" constant="13" id="zwI-AJ-6FM"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="SJb-kh-KEO"/>
+                                <exclude reference="W90-8M-YII"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <navigationItem key="navigationItem" title="CFCoverFlowView" id="rKP-qN-iXU">
+                        <barButtonItem key="rightBarButtonItem" title="Close" id="8S2-wG-QRR">
+                            <connections>
+                                <action selector="closeButtonPressed:" destination="gwX-BO-1pq" id="o6G-Xy-OIB"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="coverFlowView1" destination="6l1-3A-HZZ" id="kSk-In-THe"/>
+                        <outlet property="pageControl" destination="dQT-4t-Mfm" id="2NI-Hk-6fj"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Gf6-9Y-reE" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-585" y="-191"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Fk3-eP-9c4">
+            <objects>
+                <navigationController definesPresentationContext="YES" id="o69-5f-gEY" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="iwH-EU-cyv">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="gwX-BO-1pq" kind="relationship" relationship="rootViewController" id="Cfi-Zx-Wf5"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IhI-X3-3eM" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1234" y="-191"/>
+        </scene>
+    </scenes>
+</document>

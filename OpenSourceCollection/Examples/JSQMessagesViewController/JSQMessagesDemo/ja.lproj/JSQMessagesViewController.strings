@@ -1,0 +1,42 @@
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2qz-Z2-GmT"; */
+"2qz-Z2-GmT.text" = "タイトル";
+
+/* Class = "IBUILabel"; text = "Springy bubbles"; ObjectID = "3d2-fZ-dx9"; */
+"3d2-fZ-dx9.text" = "メッセージ枠に弾力をもたせる";
+
+/* Class = "IBUILabel"; text = "Outgoing avatars"; ObjectID = "9Rr-S8-Uae"; */
+"9Rr-S8-Uae.text" = "自分の顔写真";
+
+/* Class = "IBUILabel"; text = "Empty view, no messages"; ObjectID = "DoU-SU-Nek"; */
+"DoU-SU-Nek.text" = "空の画面, メッセージなし";
+
+/* Class = "IBUILabel"; text = "Incoming avatars"; ObjectID = "RUq-Pa-3nx"; */
+"RUq-Pa-3nx.text" = "相手の顔写真";
+
+/* Class = "IBUILabel"; text = "Load really long message"; ObjectID = "YV3-GH-Yul"; */
+"YV3-GH-Yul.text" = "長い文章を表示する";
+
+/* Class = "IBUILabel"; text = "Load extra messages"; ObjectID = "bSS-CD-nfD"; */
+"bSS-CD-nfD.text" = "メッセージを追加する";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "hiN-Hb-2Zc"; */
+"hiN-Hb-2Zc.title" = "閉じる";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "hrw-Dp-Tor"; */
+"hrw-Dp-Tor.title" = "設定";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "irr-Pn-9x5"; */
+"irr-Pn-9x5.title" = "Root View Controller";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Avatars"; ObjectID = "ns0-OO-PGu"; */
+"ns0-OO-PGu.headerTitle" = "顔写真";
+
+/* Class = "IBUITableViewSection"; footerTitle = "NOTE: This feature is experimental"; ObjectID = "o5m-OT-1Iw"; */
+"o5m-OT-1Iw.footerTitle" = "注意：この機能は試験中です";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Dynamic Behaviors"; ObjectID = "o5m-OT-1Iw"; */
+"o5m-OT-1Iw.headerTitle" = "動的挙動";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Messages"; ObjectID = "ygb-Dp-o4r"; */
+"ygb-Dp-o4r.headerTitle" = "メッセージ";

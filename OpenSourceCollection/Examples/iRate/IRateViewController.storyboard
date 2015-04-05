@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="YE6-rZ-MYM">
+    <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <scenes>
+        <!--Rate View Controller-->
+        <scene sceneID="Th9-e6-Ink">
+            <objects>
+                <viewController id="YE6-rZ-MYM" customClass="IRateViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="oGQ-Nf-0dz"/>
+                        <viewControllerLayoutGuide type="bottom" id="iF5-bK-ZP8"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="fqp-pt-SXB">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="iRate Sample" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cmH-1W-Nm3">
+                                <rect key="frame" x="248" y="240" width="102.5" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jPV-SN-xhQ">
+                                <rect key="frame" x="243" y="141" width="113" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="Rate it!">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="rateButtonPressed:" destination="YE6-rZ-MYM" eventType="touchUpInside" id="WfO-JI-Z6U"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dhY-tL-Pgc">
+                                <rect key="frame" x="277.5" y="310" width="45" height="34"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                <state key="normal" title="close">
+                                    <color key="titleColor" red="1" green="0.064696846660000001" blue="0.16716269480000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="closeButtonPressed:" destination="YE6-rZ-MYM" eventType="touchUpInside" id="esB-iX-i77"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="dhY-tL-Pgc" firstAttribute="top" secondItem="cmH-1W-Nm3" secondAttribute="bottom" constant="50" id="9Rc-KC-Qn3"/>
+                            <constraint firstAttribute="centerX" secondItem="jPV-SN-xhQ" secondAttribute="centerX" id="Ug1-re-WqN"/>
+                            <constraint firstItem="cmH-1W-Nm3" firstAttribute="top" secondItem="jPV-SN-xhQ" secondAttribute="bottom" constant="63" id="X3M-Es-4tt"/>
+                            <constraint firstAttribute="centerX" secondItem="dhY-tL-Pgc" secondAttribute="centerX" id="kyo-nF-qBK"/>
+                            <constraint firstAttribute="centerX" secondItem="cmH-1W-Nm3" secondAttribute="centerX" id="yRq-3y-UAJ"/>
+                            <constraint firstAttribute="centerY" secondItem="cmH-1W-Nm3" secondAttribute="centerY" constant="50" id="yb3-Ma-aG6"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hVn-ep-Etd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="218" y="349"/>
+        </scene>
+    </scenes>
+</document>

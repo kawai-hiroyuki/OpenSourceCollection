@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--Coach Marks View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="WSCoachMarksViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y6Y-9e-VTq">
+                                <rect key="frame" x="261" y="285" width="78" height="30"/>
+                                <state key="normal" title="Demo Start">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="showCoachMarkButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="geQ-m3-S2H"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="t77-7L-oov">
+                                <rect key="frame" x="280" y="520" width="40" height="30"/>
+                                <state key="normal" title="Close">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="closeButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bVh-Kj-gFp"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="When you press the Demo Start button demo starts" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cub-Dx-Opz">
+                                <rect key="frame" x="16" y="30" width="568" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="0bY-Pv-PDJ">
+                                <rect key="frame" x="198" y="100" width="204" height="31"/>
+                            </slider>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" on="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7HV-Io-CJm">
+                                <rect key="frame" x="276" y="180" width="51" height="31"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="31" id="IR8-8T-zYy"/>
+                                    <constraint firstAttribute="width" constant="49" id="NCg-5y-e5a"/>
+                                </constraints>
+                            </switch>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="cub-Dx-Opz" secondAttribute="trailing" id="45H-6h-sk5"/>
+                            <constraint firstItem="cub-Dx-Opz" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="10" id="6Vy-QM-i6r"/>
+                            <constraint firstAttribute="width" secondItem="0bY-Pv-PDJ" secondAttribute="width" multiplier="3" id="7VO-lh-Nai"/>
+                            <constraint firstAttribute="centerX" secondItem="Y6Y-9e-VTq" secondAttribute="centerX" id="AD4-Do-Jpn"/>
+                            <constraint firstAttribute="centerX" secondItem="7HV-Io-CJm" secondAttribute="centerX" id="BT9-Ff-l7M"/>
+                            <constraint firstItem="7HV-Io-CJm" firstAttribute="top" secondItem="0bY-Pv-PDJ" secondAttribute="bottom" constant="50" id="U07-Yo-kpM"/>
+                            <constraint firstItem="cub-Dx-Opz" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="W31-EX-z2r"/>
+                            <constraint firstAttribute="centerY" secondItem="Y6Y-9e-VTq" secondAttribute="centerY" id="ZpI-dQ-Bvq"/>
+                            <constraint firstItem="0bY-Pv-PDJ" firstAttribute="top" secondItem="cub-Dx-Opz" secondAttribute="bottom" constant="50" id="aIX-dx-b2g"/>
+                            <constraint firstAttribute="centerX" secondItem="0bY-Pv-PDJ" secondAttribute="centerX" id="jrO-ty-ooz"/>
+                            <constraint firstAttribute="centerX" secondItem="t77-7L-oov" secondAttribute="centerX" id="oZS-Y2-rE3"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="t77-7L-oov" secondAttribute="bottom" constant="50" id="zWu-NG-Wso"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="closeButton" destination="t77-7L-oov" id="oDo-xx-9c6"/>
+                        <outlet property="demoStartButton" destination="Y6Y-9e-VTq" id="8yF-Yi-LJR"/>
+                        <outlet property="label" destination="cub-Dx-Opz" id="vry-gs-y7b"/>
+                        <outlet property="slider" destination="0bY-Pv-PDJ" id="3ER-96-lmi"/>
+                        <outlet property="uiswitch" destination="7HV-Io-CJm" id="IPG-am-plp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="155" y="168"/>
+        </scene>
+    </scenes>
+</document>

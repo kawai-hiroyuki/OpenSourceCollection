@@ -1,0 +1,24 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Redo"; ObjectID = "1ax-hu-1Jw"; */
+"1ax-hu-1Jw.title" = "やり直す";
+
+/* Class = "IBUIBarButtonItem"; title = "Pen"; ObjectID = "7nB-yh-oYo"; */
+"7nB-yh-oYo.title" = "ペン";
+
+/* Class = "IBUIBarButtonItem"; title = "Black"; ObjectID = "GtL-ka-aPY"; */
+"GtL-ka-aPY.title" = "黒色";
+
+/* Class = "IBUIBarButtonItem"; title = "Width"; ObjectID = "JAT-hW-u5M"; */
+"JAT-hW-u5M.title" = "太さ";
+
+/* Class = "IBUIBarButtonItem"; title = "Undo"; ObjectID = "MVD-1K-z9l"; */
+"MVD-1K-z9l.title" = "取り消す";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "VPY-s7-iva"; */
+"VPY-s7-iva.title" = "閉じる";
+
+/* Class = "IBUIBarButtonItem"; title = "Alpha"; ObjectID = "ity-ky-2CC"; */
+"ity-ky-2CC.title" = "透明度";
+
+/* Class = "IBUIBarButtonItem"; title = "Clear"; ObjectID = "tdh-Ec-XBe"; */
+"tdh-Ec-XBe.title" = "消去";

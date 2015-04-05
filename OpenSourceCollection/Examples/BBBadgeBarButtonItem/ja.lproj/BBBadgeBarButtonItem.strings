@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "Change badge color"; ObjectID = "4sE-hW-C03"; */
+"4sE-hW-C03.normalTitle" = "バッチの色を変える";
+
+/* Class = "IBUIButton"; normalTitle = "Fake adding one element to the list"; ObjectID = "8Tk-nk-USN"; */
+"8Tk-nk-USN.normalTitle" = "バッチの数字を変更する";
+
+/* Class = "IBUILabel"; text = "Badge over BarButtonitem"; ObjectID = "Z0a-y1-wjy"; */
+"Z0a-y1-wjy.text" = "BarButtonItemにバッチを追加する";
+
+/* Class = "IBUINavigationItem"; title = "BadgeBarButtonItem"; ObjectID = "dZc-JX-3G6"; */
+"dZc-JX-3G6.title" = "BadgeBarButtonItem";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "hBB-mZ-ePN"; */
+"hBB-mZ-ePN.title" = "閉じる";
+
+/* Class = "IBUIButton"; normalTitle = "Change badge position"; ObjectID = "hHO-Ym-1Nx"; */
+"hHO-Ym-1Nx.normalTitle" = "バッチの表示位置を変える";

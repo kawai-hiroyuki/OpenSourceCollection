@@ -1,0 +1,600 @@
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "1W9-vN-WV3"; */
+"1W9-vN-WV3.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Filtered Image"; ObjectID = "2HA-h4-SQE"; */
+"2HA-h4-SQE.text" = "Filtered Image";
+
+/* Class = "IBUISegmentedControl"; 2TR-3Z-Pqy.segmentTitles[0] = "None"; ObjectID = "2TR-3Z-Pqy"; */
+"2TR-3Z-Pqy.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; 2TR-3Z-Pqy.segmentTitles[1] = "Success"; ObjectID = "2TR-3Z-Pqy"; */
+"2TR-3Z-Pqy.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; 2TR-3Z-Pqy.segmentTitles[2] = "Failure"; ObjectID = "2TR-3Z-Pqy"; */
+"2TR-3Z-Pqy.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Superview:"; ObjectID = "2is-2S-OT1"; */
+"2is-2S-OT1.text" = "Superview:";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Console"; ObjectID = "3NF-fn-wov"; */
+"3NF-fn-wov.headerTitle" = "Console";
+
+/* Class = "IBUILabel"; text = "Apply Blur to Background:"; ObjectID = "3Wf-cj-9pG"; */
+"3Wf-cj-9pG.text" = "Apply Blur to Background:";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "4fM-Qc-IQf"; */
+"4fM-Qc-IQf.text" = "Indeterminate:";
+
+/* Class = "IBUIButton"; normalTitle = "Change Secondary Color"; ObjectID = "4uk-kJ-xLQ"; */
+"4uk-kJ-xLQ.normalTitle" = "Change Secondary Color";
+
+/* Class = "IBUILabel"; text = "Corner Type:"; ObjectID = "4yV-dI-gHy"; */
+"4yV-dI-gHy.text" = "Corner Type:";
+
+/* Class = "IBUILabel"; text = "Notch size Y:"; ObjectID = "4yY-5l-s0s"; */
+"4yY-5l-s0s.text" = "Notch size Y:";
+
+/* Class = "IBUISegmentedControl"; 53v-sb-s1x.segmentTitles[0] = "None"; ObjectID = "53v-sb-s1x"; */
+"53v-sb-s1x.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; 53v-sb-s1x.segmentTitles[1] = "Success"; ObjectID = "53v-sb-s1x"; */
+"53v-sb-s1x.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; 53v-sb-s1x.segmentTitles[2] = "Failure"; ObjectID = "53v-sb-s1x"; */
+"53v-sb-s1x.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Console"; ObjectID = "5Sc-Fq-dEW"; */
+"5Sc-Fq-dEW.text" = "Console";
+
+/* Class = "IBUINavigationItem"; title = "Samples"; ObjectID = "5hV-ES-9yb"; */
+"5hV-ES-9yb.title" = "Samples";
+
+/* Class = "IBUISegmentedControl"; 6mh-fN-YPR.segmentTitles[0] = "Bottom"; ObjectID = "6mh-fN-YPR"; */
+"6mh-fN-YPR.segmentTitles[0]" = "Bottom";
+
+/* Class = "IBUISegmentedControl"; 6mh-fN-YPR.segmentTitles[1] = "Top"; ObjectID = "6mh-fN-YPR"; */
+"6mh-fN-YPR.segmentTitles[1]" = "Top";
+
+/* Class = "IBUISegmentedControl"; 6mh-fN-YPR.segmentTitles[2] = "Left"; ObjectID = "6mh-fN-YPR"; */
+"6mh-fN-YPR.segmentTitles[2]" = "Left";
+
+/* Class = "IBUISegmentedControl"; 6mh-fN-YPR.segmentTitles[3] = "Right"; ObjectID = "6mh-fN-YPR"; */
+"6mh-fN-YPR.segmentTitles[3]" = "Right";
+
+/* Class = "IBUILabel"; text = "Segmented Ring"; ObjectID = "6pk-rK-91N"; */
+"6pk-rK-91N.text" = "Segmented Ring";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "6vI-pF-YLt"; */
+"6vI-pF-YLt.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Show Background:"; ObjectID = "7Wh-I5-a2b"; */
+"7Wh-I5-a2b.text" = "Show Background:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate"; ObjectID = "7eK-WS-EgC"; */
+"7eK-WS-EgC.normalTitle" = "Animate";
+
+/* Class = "IBUISegmentedControl"; 7oT-CH-LPK.segmentTitles[0] = "None"; ObjectID = "7oT-CH-LPK"; */
+"7oT-CH-LPK.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; 7oT-CH-LPK.segmentTitles[1] = "Success"; ObjectID = "7oT-CH-LPK"; */
+"7oT-CH-LPK.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; 7oT-CH-LPK.segmentTitles[2] = "Failure"; ObjectID = "7oT-CH-LPK"; */
+"7oT-CH-LPK.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "80m-jp-tmd"; */
+"80m-jp-tmd.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Point Shape:"; ObjectID = "8T6-8Y-Uyv"; */
+"8T6-8Y-Uyv.text" = "Point Shape:";
+
+/* Class = "IBUILabel"; text = "Percentage:"; ObjectID = "8xs-It-ykU"; */
+"8xs-It-ykU.text" = "Percentage:";
+
+/* Class = "IBUINavigationItem"; title = "Striped Bar"; ObjectID = "9r4-aB-3V6"; */
+"9r4-aB-3V6.title" = "Striped Bar";
+
+/* Class = "IBUILabel"; text = "Pie"; ObjectID = "AWH-hh-AJk"; */
+"AWH-hh-AJk.text" = "Pie";
+
+/* Class = "IBUINavigationItem"; title = "Bordered Bar"; ObjectID = "Aig-s8-OZ4"; */
+"Aig-s8-OZ4.title" = "Bordered Bar";
+
+/* Class = "IBUILabel"; text = "Percentage:"; ObjectID = "B1K-s1-zwJ"; */
+"B1K-s1-zwJ.text" = "Percentage:";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "B2f-Gb-MUA"; */
+"B2f-Gb-MUA.text" = "Indeterminate:";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "Ba5-ax-DZP"; */
+"Ba5-ax-DZP.text" = "Progress:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "Bb1-lW-ZN0"; */
+"Bb1-lW-ZN0.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Number of Grid Points Y:"; ObjectID = "BiS-Tu-BI6"; */
+"BiS-Tu-BI6.text" = "Number of Grid Points Y:";
+
+/* Class = "IBUISegmentedControl"; Boy-jK-yDs.segmentTitles[0] = "None"; ObjectID = "Boy-jK-yDs"; */
+"Boy-jK-yDs.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; Boy-jK-yDs.segmentTitles[1] = "Success"; ObjectID = "Boy-jK-yDs"; */
+"Boy-jK-yDs.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; Boy-jK-yDs.segmentTitles[2] = "Failure"; ObjectID = "Boy-jK-yDs"; */
+"Boy-jK-yDs.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUINavigationItem"; title = "Bar"; ObjectID = "C84-Q9-7wk"; */
+"C84-Q9-7wk.title" = "Bar";
+
+/* Class = "IBUILabel"; text = "Filter:"; ObjectID = "CkZ-xi-8q2"; */
+"CkZ-xi-8q2.text" = "Filter:";
+
+/* Class = "IBUINavigationItem"; title = "Pie"; ObjectID = "DZJ-UR-hQz"; */
+"DZJ-UR-hQz.title" = "Pie";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Circular"; ObjectID = "Dqc-3S-Ecy"; */
+"Dqc-3S-Ecy.headerTitle" = "Circular";
+
+/* Class = "IBUILabel"; text = "Ring"; ObjectID = "EI5-Re-zKh"; */
+"EI5-Re-zKh.text" = "Ring";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "EPg-Sl-V65"; */
+"EPg-Sl-V65.normalTitle" = "Animate Progress";
+
+/* Class = "IBUISegmentedControl"; FcN-ou-2S7.segmentTitles[0] = "→, ↑"; ObjectID = "FcN-ou-2S7"; */
+"FcN-ou-2S7.segmentTitles[0]" = "→, ↑";
+
+/* Class = "IBUISegmentedControl"; FcN-ou-2S7.segmentTitles[1] = "←, ↓"; ObjectID = "FcN-ou-2S7"; */
+"FcN-ou-2S7.segmentTitles[1]" = "←, ↓";
+
+/* Class = "IBUILabel"; text = "Letterpress"; ObjectID = "Fsi-f5-Zd8"; */
+"Fsi-f5-Zd8.text" = "Letterpress";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "G9F-OY-ku2"; */
+"G9F-OY-ku2.normalTitle" = "Cancel";
+
+/* Class = "IBUISegmentedControl"; GMi-oC-cvg.segmentTitles[0] = "Window"; ObjectID = "GMi-oC-cvg"; */
+"GMi-oC-cvg.segmentTitles[0]" = "Window";
+
+/* Class = "IBUISegmentedControl"; GMi-oC-cvg.segmentTitles[1] = "Image View"; ObjectID = "GMi-oC-cvg"; */
+"GMi-oC-cvg.segmentTitles[1]" = "Image View";
+
+/* Class = "IBUISegmentedControl"; Gai-2y-8YB.segmentTitles[0] = "None"; ObjectID = "Gai-2y-8YB"; */
+"Gai-2y-8YB.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; Gai-2y-8YB.segmentTitles[1] = "Success"; ObjectID = "Gai-2y-8YB"; */
+"Gai-2y-8YB.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; Gai-2y-8YB.segmentTitles[2] = "Failure"; ObjectID = "Gai-2y-8YB"; */
+"Gai-2y-8YB.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "H8a-51-UoO"; */
+"H8a-51-UoO.normalTitle" = "Animate Progress";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Image"; ObjectID = "HPd-HB-Xxj"; */
+"HPd-HB-Xxj.headerTitle" = "Image";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "I3r-1M-CDt"; */
+"I3r-1M-CDt.text" = "Indeterminate:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "IWq-qr-YX9"; */
+"IWq-qr-YX9.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Radiative"; ObjectID = "JJu-cS-7xx"; */
+"JJu-cS-7xx.text" = "Radiative";
+
+/* Class = "IBUISegmentedControl"; Je3-M3-PXK.segmentTitles[0] = "Percentage"; ObjectID = "Je3-M3-PXK"; */
+"Je3-M3-PXK.segmentTitles[0]" = "Percentage";
+
+/* Class = "IBUISegmentedControl"; Je3-M3-PXK.segmentTitles[1] = "Dots"; ObjectID = "Je3-M3-PXK"; */
+"Je3-M3-PXK.segmentTitles[1]" = "Dots";
+
+/* Class = "IBUISegmentedControl"; Je3-M3-PXK.segmentTitles[2] = "Bar with dots"; ObjectID = "Je3-M3-PXK"; */
+"Je3-M3-PXK.segmentTitles[2]" = "Bar with dots";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Special"; ObjectID = "JlJ-vc-flV"; */
+"JlJ-vc-flV.headerTitle" = "Special";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "KNF-aC-6Bh"; */
+"KNF-aC-6Bh.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "KqN-oi-3T0"; */
+"KqN-oi-3T0.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Segmented Bar"; ObjectID = "Li3-4n-pvE"; */
+"Li3-4n-pvE.text" = "Segmented Bar";
+
+/* Class = "IBUISegmentedControl"; M3m-LW-YJz.segmentTitles[0] = "Rectangle"; ObjectID = "M3m-LW-YJz"; */
+"M3m-LW-YJz.segmentTitles[0]" = "Rectangle";
+
+/* Class = "IBUISegmentedControl"; M3m-LW-YJz.segmentTitles[1] = "Rounded Rect"; ObjectID = "M3m-LW-YJz"; */
+"M3m-LW-YJz.segmentTitles[1]" = "Rounded Rect";
+
+/* Class = "IBUISegmentedControl"; M3m-LW-YJz.segmentTitles[2] = "Circle"; ObjectID = "M3m-LW-YJz"; */
+"M3m-LW-YJz.segmentTitles[2]" = "Circle";
+
+/* Class = "IBUINavigationItem"; title = "HUD"; ObjectID = "Mll-E6-QaT"; */
+"Mll-E6-QaT.title" = "HUD";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "Mnr-6M-ySB"; */
+"Mnr-6M-ySB.text" = "Indeterminate:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate"; ObjectID = "NIL-fV-mi5"; */
+"NIL-fV-mi5.normalTitle" = "Animate";
+
+/* Class = "IBUILabel"; text = "Notch size X:"; ObjectID = "NUa-jD-6VF"; */
+"NUa-jD-6VF.text" = "Notch size X:";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "O3e-28-kh8"; */
+"O3e-28-kh8.text" = "Indeterminate:";
+
+/* Class = "IBUINavigationItem"; title = "Image"; ObjectID = "O6L-sl-2R4"; */
+"O6L-sl-2R4.title" = "Image";
+
+/* Class = "IBUISegmentedControl"; O8s-Pk-TRq.segmentTitles[0] = "None"; ObjectID = "O8s-Pk-TRq"; */
+"O8s-Pk-TRq.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; O8s-Pk-TRq.segmentTitles[1] = "Success"; ObjectID = "O8s-Pk-TRq"; */
+"O8s-Pk-TRq.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; O8s-Pk-TRq.segmentTitles[2] = "Failure"; ObjectID = "O8s-Pk-TRq"; */
+"O8s-Pk-TRq.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "OAb-Kf-gYO"; */
+"OAb-Kf-gYO.text" = "Progress:";
+
+/* Class = "IBUIBarButtonItem"; title = "close"; ObjectID = "OPe-jJ-Fgh"; */
+"OPe-jJ-Fgh.title" = "close";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "Oxn-vX-8qf"; */
+"Oxn-vX-8qf.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "PY1-Iz-8Yh"; */
+"PY1-Iz-8Yh.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Direction:"; ObjectID = "Q7E-Gy-gs8"; */
+"Q7E-Gy-gs8.text" = "Direction:";
+
+/* Class = "IBUISegmentedControl"; QMb-AP-pUF.segmentTitles[0] = "Rectangle"; ObjectID = "QMb-AP-pUF"; */
+"QMb-AP-pUF.segmentTitles[0]" = "Rectangle";
+
+/* Class = "IBUISegmentedControl"; QMb-AP-pUF.segmentTitles[1] = "Rounded Rect"; ObjectID = "QMb-AP-pUF"; */
+"QMb-AP-pUF.segmentTitles[1]" = "Rounded Rect";
+
+/* Class = "IBUISegmentedControl"; QMb-AP-pUF.segmentTitles[2] = "Circle"; ObjectID = "QMb-AP-pUF"; */
+"QMb-AP-pUF.segmentTitles[2]" = "Circle";
+
+/* Class = "IBUINavigationItem"; title = "UINavigationBar"; ObjectID = "QPO-ls-lZb"; */
+"QPO-ls-lZb.title" = "UINavigationBar";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "QVO-OS-9AF"; */
+"QVO-OS-9AF.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "REe-5J-EEn"; */
+"REe-5J-EEn.text" = "Progress:";
+
+/* Class = "IBUIButton"; normalTitle = "Change Primary Color"; ObjectID = "S11-MB-hG9"; */
+"S11-MB-hG9.normalTitle" = "Change Primary Color";
+
+/* Class = "IBUINavigationItem"; title = "Segmented Ring"; ObjectID = "T4o-3J-sqH"; */
+"T4o-3J-sqH.title" = "Segmented Ring";
+
+/* Class = "IBUIViewController"; title = "Ring Progress View"; ObjectID = "TFy-y0-vjN"; */
+"TFy-y0-vjN.title" = "Ring Progress View";
+
+/* Class = "IBUISegmentedControl"; TrF-2q-U6R.segmentTitles[0] = "None"; ObjectID = "TrF-2q-U6R"; */
+"TrF-2q-U6R.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; TrF-2q-U6R.segmentTitles[1] = "Success"; ObjectID = "TrF-2q-U6R"; */
+"TrF-2q-U6R.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; TrF-2q-U6R.segmentTitles[2] = "Failure"; ObjectID = "TrF-2q-U6R"; */
+"TrF-2q-U6R.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUISegmentedControl"; VPl-h3-g7A.segmentTitles[0] = "→, ↑"; ObjectID = "VPl-h3-g7A"; */
+"VPl-h3-g7A.segmentTitles[0]" = "→, ↑";
+
+/* Class = "IBUISegmentedControl"; VPl-h3-g7A.segmentTitles[1] = "←, ↓"; ObjectID = "VPl-h3-g7A"; */
+"VPl-h3-g7A.segmentTitles[1]" = "←, ↓";
+
+/* Class = "IBUINavigationItem"; title = "Letterpress"; ObjectID = "Vwg-s6-LYs"; */
+"Vwg-s6-LYs.title" = "Letterpress";
+
+/* Class = "IBUILabel"; text = "Show Progress Text:"; ObjectID = "W0F-ko-gi9"; */
+"W0F-ko-gi9.text" = "Show Progress Text:";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "XHR-cn-kLD"; */
+"XHR-cn-kLD.text" = "Progress:";
+
+/* Class = "IBUISegmentedControl"; XjE-rN-OHs.segmentTitles[0] = "Top"; ObjectID = "XjE-rN-OHs"; */
+"XjE-rN-OHs.segmentTitles[0]" = "Top";
+
+/* Class = "IBUISegmentedControl"; XjE-rN-OHs.segmentTitles[1] = "Bottom"; ObjectID = "XjE-rN-OHs"; */
+"XjE-rN-OHs.segmentTitles[1]" = "Bottom";
+
+/* Class = "IBUISegmentedControl"; XjE-rN-OHs.segmentTitles[2] = "Left"; ObjectID = "XjE-rN-OHs"; */
+"XjE-rN-OHs.segmentTitles[2]" = "Left";
+
+/* Class = "IBUISegmentedControl"; XjE-rN-OHs.segmentTitles[3] = "Right"; ObjectID = "XjE-rN-OHs"; */
+"XjE-rN-OHs.segmentTitles[3]" = "Right";
+
+/* Class = "IBUILabel"; text = "Progress Direction:"; ObjectID = "Yer-2c-MmD"; */
+"Yer-2c-MmD.text" = "Progress Direction:";
+
+/* Class = "IBUILabel"; text = "Status Position:"; ObjectID = "Ymd-zF-jhE"; */
+"Ymd-zF-jhE.text" = "Status Position:";
+
+/* Class = "IBUINavigationItem"; title = "Console"; ObjectID = "Z9f-QB-6Bz"; */
+"Z9f-QB-6Bz.title" = "Console";
+
+/* Class = "IBUILabel"; text = "Progress Direction:"; ObjectID = "ZLB-NR-DZI"; */
+"ZLB-NR-DZI.text" = "Progress Direction:";
+
+/* Class = "IBUILabel"; text = "Image"; ObjectID = "aG8-jE-NV8"; */
+"aG8-jE-NV8.text" = "Image";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "aSp-Ot-M48"; */
+"aSp-Ot-M48.normalTitle" = "Animate Progress";
+
+/* Class = "IBUISegmentedControl"; aYu-iX-atm.segmentTitles[0] = "→, ↑"; ObjectID = "aYu-iX-atm"; */
+"aYu-iX-atm.segmentTitles[0]" = "→, ↑";
+
+/* Class = "IBUISegmentedControl"; aYu-iX-atm.segmentTitles[1] = "←, ↓"; ObjectID = "aYu-iX-atm"; */
+"aYu-iX-atm.segmentTitles[1]" = "←, ↓";
+
+/* Class = "IBUILabel"; text = "Striped Bar"; ObjectID = "awW-6q-eYL"; */
+"awW-6q-eYL.text" = "Striped Bar";
+
+/* Class = "IBUILabel"; text = "Animate Stripes:"; ObjectID = "bc3-sB-5Rb"; */
+"bc3-sB-5Rb.text" = "Animate Stripes:";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "bww-p5-3dZ"; */
+"bww-p5-3dZ.text" = "Indeterminate:";
+
+/* Class = "IBUILabel"; text = "Dot Shape:"; ObjectID = "bzd-fv-Dzm"; */
+"bzd-fv-Dzm.text" = "Dot Shape:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "c39-0g-oRX"; */
+"c39-0g-oRX.normalTitle" = "Animate Progress";
+
+/* Class = "IBUINavigationItem"; title = "Segmented Bar"; ObjectID = "cTG-xE-zQk"; */
+"cTG-xE-zQk.title" = "Segmented Bar";
+
+/* Class = "IBUISegmentedControl"; cVx-yB-nAi.segmentTitles[0] = "None"; ObjectID = "cVx-yB-nAi"; */
+"cVx-yB-nAi.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; cVx-yB-nAi.segmentTitles[1] = "Success"; ObjectID = "cVx-yB-nAi"; */
+"cVx-yB-nAi.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; cVx-yB-nAi.segmentTitles[2] = "Failure"; ObjectID = "cVx-yB-nAi"; */
+"cVx-yB-nAi.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Number of ripples:"; ObjectID = "cW5-Kb-50R"; */
+"cW5-Kb-50R.text" = "Number of ripples:";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "cs3-oC-7MT"; */
+"cs3-oC-7MT.text" = "Progress:";
+
+/* Class = "IBUINavigationItem"; title = "Ring"; ObjectID = "dCu-PQ-BjH"; */
+"dCu-PQ-BjH.title" = "Ring";
+
+/* Class = "IBUISegmentedControl"; e41-Yh-0Zs.segmentTitles[0] = "Circle"; ObjectID = "e41-Yh-0Zs"; */
+"e41-Yh-0Zs.segmentTitles[0]" = "Circle";
+
+/* Class = "IBUISegmentedControl"; e41-Yh-0Zs.segmentTitles[1] = "Square"; ObjectID = "e41-Yh-0Zs"; */
+"e41-Yh-0Zs.segmentTitles[1]" = "Square";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "eOa-Xa-sZF"; */
+"eOa-Xa-sZF.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Shape:"; ObjectID = "ePP-Kt-Ype"; */
+"ePP-Kt-Ype.text" = "Shape:";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "eR3-VY-3cF"; */
+"eR3-VY-3cF.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "fb4-NL-4eU"; */
+"fb4-NL-4eU.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Show Stripes:"; ObjectID = "g9P-dw-5xI"; */
+"g9P-dw-5xI.text" = "Show Stripes:";
+
+/* Class = "IBUILabel"; text = "Progress Direction:"; ObjectID = "gRE-eH-Cep"; */
+"gRE-eH-Cep.text" = "Progress Direction:";
+
+/* Class = "IBUILabel"; text = "Bordered Bar"; ObjectID = "gS9-BV-qk1"; */
+"gS9-BV-qk1.text" = "Bordered Bar";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "hDb-FL-Y5D"; */
+"hDb-FL-Y5D.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "hLj-JA-OVo"; */
+"hLj-JA-OVo.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Percentage:"; ObjectID = "i5B-Hc-LnR"; */
+"i5B-Hc-LnR.text" = "Percentage:";
+
+/* Class = "IBUILabel"; text = "Mask Type:"; ObjectID = "iRK-0E-R6c"; */
+"iRK-0E-R6c.text" = "Mask Type:";
+
+/* Class = "IBUISegmentedControl"; iRg-FU-onn.segmentTitles[0] = "Blur"; ObjectID = "iRg-FU-onn"; */
+"iRg-FU-onn.segmentTitles[0]" = "Blur";
+
+/* Class = "IBUISegmentedControl"; iRg-FU-onn.segmentTitles[1] = "Light Tunnel"; ObjectID = "iRg-FU-onn"; */
+"iRg-FU-onn.segmentTitles[1]" = "Light Tunnel";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "iWb-1G-GEb"; */
+"iWb-1G-GEb.text" = "Indeterminate:";
+
+/* Class = "IBUISegmentedControl"; jSl-uA-t0X.segmentTitles[0] = "Circle"; ObjectID = "jSl-uA-t0X"; */
+"jSl-uA-t0X.segmentTitles[0]" = "Circle";
+
+/* Class = "IBUISegmentedControl"; jSl-uA-t0X.segmentTitles[1] = "Square"; ObjectID = "jSl-uA-t0X"; */
+"jSl-uA-t0X.segmentTitles[1]" = "Square";
+
+/* Class = "IBUINavigationItem"; title = "Metro"; ObjectID = "kaq-eQ-FXb"; */
+"kaq-eQ-FXb.title" = "Metro";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "knX-nh-UxX"; */
+"knX-nh-UxX.text" = "Indeterminate:";
+
+/* Class = "IBUISegmentedControl"; krE-2h-CYW.segmentTitles[0] = "Circle"; ObjectID = "krE-2h-CYW"; */
+"krE-2h-CYW.segmentTitles[0]" = "Circle";
+
+/* Class = "IBUISegmentedControl"; krE-2h-CYW.segmentTitles[1] = "Square"; ObjectID = "krE-2h-CYW"; */
+"krE-2h-CYW.segmentTitles[1]" = "Square";
+
+/* Class = "IBUISegmentedControl"; krE-2h-CYW.segmentTitles[2] = "Line"; ObjectID = "krE-2h-CYW"; */
+"krE-2h-CYW.segmentTitles[2]" = "Line";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "lgh-Mz-WoV"; */
+"lgh-Mz-WoV.text" = "Indeterminate:";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "mUT-Ah-G1t"; */
+"mUT-Ah-G1t.text" = "Progress:";
+
+/* Class = "IBUISegmentedControl"; n9r-Kn-it2.segmentTitles[0] = "Rectangle"; ObjectID = "n9r-Kn-it2"; */
+"n9r-Kn-it2.segmentTitles[0]" = "Rectangle";
+
+/* Class = "IBUISegmentedControl"; n9r-Kn-it2.segmentTitles[1] = "Rounded Rect"; ObjectID = "n9r-Kn-it2"; */
+"n9r-Kn-it2.segmentTitles[1]" = "Rounded Rect";
+
+/* Class = "IBUISegmentedControl"; n9r-Kn-it2.segmentTitles[2] = "Circle"; ObjectID = "n9r-Kn-it2"; */
+"n9r-Kn-it2.segmentTitles[2]" = "Circle";
+
+/* Class = "IBUILabel"; text = "Number of Grid Points X:"; ObjectID = "nvK-t8-iZ8"; */
+"nvK-t8-iZ8.text" = "Number of Grid Points X:";
+
+/* Class = "IBUILabel"; text = "Percentage Position:"; ObjectID = "o0c-f6-aZz"; */
+"o0c-f6-aZz.text" = "Percentage Position:";
+
+/* Class = "IBUILabel"; text = "Bar"; ObjectID = "o4y-Cg-oeb"; */
+"o4y-Cg-oeb.text" = "Bar";
+
+/* Class = "IBUISegmentedControl"; os1-cM-CUQ.segmentTitles[0] = "None"; ObjectID = "os1-cM-CUQ"; */
+"os1-cM-CUQ.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; os1-cM-CUQ.segmentTitles[1] = "Success"; ObjectID = "os1-cM-CUQ"; */
+"os1-cM-CUQ.segmentTitles[1]" = "Success";
+
+/* Class = "IBUISegmentedControl"; os1-cM-CUQ.segmentTitles[2] = "Failure"; ObjectID = "os1-cM-CUQ"; */
+"os1-cM-CUQ.segmentTitles[2]" = "Failure";
+
+/* Class = "IBUILabel"; text = "Number of Dots:"; ObjectID = "peE-MW-vNx"; */
+"peE-MW-vNx.text" = "Number of Dots:";
+
+/* Class = "IBUISegmentedControl"; pkI-A8-oox.segmentTitles[0] = "Circular"; ObjectID = "pkI-A8-oox"; */
+"pkI-A8-oox.segmentTitles[0]" = "Circular";
+
+/* Class = "IBUISegmentedControl"; pkI-A8-oox.segmentTitles[1] = "Square"; ObjectID = "pkI-A8-oox"; */
+"pkI-A8-oox.segmentTitles[1]" = "Square";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "qJ0-I2-8uN"; */
+"qJ0-I2-8uN.normalTitle" = "Animate Progress";
+
+/* Class = "IBUINavigationItem"; title = "Filtered Image"; ObjectID = "qUi-5Q-Plo"; */
+"qUi-5Q-Plo.title" = "Filtered Image";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "qVY-gL-Kue"; */
+"qVY-gL-Kue.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "r02-Oo-76o"; */
+"r02-Oo-76o.text" = "Action:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "r9Y-EN-CvZ"; */
+"r9Y-EN-CvZ.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "rfb-lS-6nz"; */
+"rfb-lS-6nz.text" = "Progress:";
+
+/* Class = "IBUILabel"; text = "Outward:"; ObjectID = "rfv-Fj-EqU"; */
+"rfv-Fj-EqU.text" = "Outward:";
+
+/* Class = "IBUISegmentedControl"; s2S-2U-KWp.segmentTitles[0] = "→"; ObjectID = "s2S-2U-KWp"; */
+"s2S-2U-KWp.segmentTitles[0]" = "→";
+
+/* Class = "IBUISegmentedControl"; s2S-2U-KWp.segmentTitles[1] = "↑"; ObjectID = "s2S-2U-KWp"; */
+"s2S-2U-KWp.segmentTitles[1]" = "↑";
+
+/* Class = "IBUISegmentedControl"; s2S-2U-KWp.segmentTitles[2] = "←"; ObjectID = "s2S-2U-KWp"; */
+"s2S-2U-KWp.segmentTitles[2]" = "←";
+
+/* Class = "IBUISegmentedControl"; s2S-2U-KWp.segmentTitles[3] = "↓"; ObjectID = "s2S-2U-KWp"; */
+"s2S-2U-KWp.segmentTitles[3]" = "↓";
+
+/* Class = "IBUILabel"; text = "Indeterminate:"; ObjectID = "se6-Or-GmS"; */
+"se6-Or-GmS.text" = "Indeterminate:";
+
+/* Class = "IBUILabel"; text = "Colorize:"; ObjectID = "sgp-ag-c6g"; */
+"sgp-ag-c6g.text" = "Colorize:";
+
+/* Class = "IBUINavigationItem"; title = "Radiative"; ObjectID = "slS-9Z-6GG"; */
+"slS-9Z-6GG.title" = "Radiative";
+
+/* Class = "IBUILabel"; text = "Shape:"; ObjectID = "srO-ev-4Sx"; */
+"srO-ev-4Sx.text" = "Shape:";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Bar"; ObjectID = "syW-K5-blo"; */
+"syW-K5-blo.headerTitle" = "Bar";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "tEY-z0-LCF"; */
+"tEY-z0-LCF.text" = "Progress:";
+
+/* Class = "IBUITableViewSection"; headerTitle = "UINavigationController"; ObjectID = "tHG-we-1Pz"; */
+"tHG-we-1Pz.headerTitle" = "UINavigationController";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "tPK-mh-9lY"; */
+"tPK-mh-9lY.normalTitle" = "Animate Progress";
+
+/* Class = "IBUIButton"; normalTitle = "Finish"; ObjectID = "ty6-68-P6X"; */
+"ty6-68-P6X.normalTitle" = "Finish";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "u1X-9g-Nyl"; */
+"u1X-9g-Nyl.text" = "Action:";
+
+/* Class = "IBUIButton"; normalTitle = "Animate Progress"; ObjectID = "uG6-LU-75e"; */
+"uG6-LU-75e.normalTitle" = "Animate Progress";
+
+/* Class = "IBUILabel"; text = "Segment Boundary:"; ObjectID = "uP4-Ie-Nt0"; */
+"uP4-Ie-Nt0.text" = "Segment Boundary:";
+
+/* Class = "IBUILabel"; text = "Show Prefix:"; ObjectID = "ubn-f5-Lr9"; */
+"ubn-f5-Lr9.text" = "Show Prefix:";
+
+/* Class = "IBUISegmentedControl"; ufW-yb-ebg.segmentTitles[0] = "None"; ObjectID = "ufW-yb-ebg"; */
+"ufW-yb-ebg.segmentTitles[0]" = "None";
+
+/* Class = "IBUISegmentedControl"; ufW-yb-ebg.segmentTitles[1] = "Solid"; ObjectID = "ufW-yb-ebg"; */
+"ufW-yb-ebg.segmentTitles[1]" = "Solid";
+
+/* Class = "IBUISegmentedControl"; ufW-yb-ebg.segmentTitles[2] = "Gradient"; ObjectID = "ufW-yb-ebg"; */
+"ufW-yb-ebg.segmentTitles[2]" = "Gradient";
+
+/* Class = "IBUISegmentedControl"; ufW-yb-ebg.segmentTitles[3] = "Blur"; ObjectID = "ufW-yb-ebg"; */
+"ufW-yb-ebg.segmentTitles[3]" = "Blur";
+
+/* Class = "IBUILabel"; text = "Action:"; ObjectID = "w95-Nb-aDc"; */
+"w95-Nb-aDc.text" = "Action:";
+
+/* Class = "IBUILabel"; text = "Corner Type:"; ObjectID = "wLO-7Q-QDj"; */
+"wLO-7Q-QDj.text" = "Corner Type:";
+
+/* Class = "IBUILabel"; text = "Progress Type:"; ObjectID = "xYv-aO-aZ4"; */
+"xYv-aO-aZ4.text" = "Progress Type:";
+
+/* Class = "IBUILabel"; text = "Path Shape:"; ObjectID = "xlF-Bf-f1b"; */
+"xlF-Bf-f1b.text" = "Path Shape:";
+
+/* Class = "IBUILabel"; text = "Metro"; ObjectID = "z3s-02-YMu"; */
+"z3s-02-YMu.text" = "Metro";
+
+/* Class = "IBUISegmentedControl"; zsM-rL-8ZG.segmentTitles[0] = "Wedge"; ObjectID = "zsM-rL-8ZG"; */
+"zsM-rL-8ZG.segmentTitles[0]" = "Wedge";
+
+/* Class = "IBUISegmentedControl"; zsM-rL-8ZG.segmentTitles[1] = "Rectangle"; ObjectID = "zsM-rL-8ZG"; */
+"zsM-rL-8ZG.segmentTitles[1]" = "Rectangle";
+
+/* Class = "IBUILabel"; text = "Progress:"; ObjectID = "zwK-bV-iWs"; */
+"zwK-bV-iWs.text" = "Progress:";
