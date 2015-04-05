@@ -19,15 +19,16 @@ Future, it's plan to increase open source libraries to introduce.
 2. Clone repository from git command
 
 ```
-git clone https://github.com/kawai-hiroyuki/OpenSourceCollection.git
+$ git clone https://github.com/kawai-hiroyuki/OpenSourceCollection.git
 ```
 
 3. Install Open Sources from CocoaPods command
 
 ```
-pod install
+$ pod install
 ```
 
 # Require
-Mac OS 10.9.5
-Xcode Version 6.0.1 and later
+
+* Mac OS 10.9.5 and later
+* Xcode Version 6.0.1 and later
